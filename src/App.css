@@ -1,0 +1,36 @@
+.App {
+  font-family: 'Poppins';
+    background-color: #d2761b;
+    color: #fff;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.App table {
+  margin-bottom: 20px;
+}
+
+.App .notes {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.App .notes p {
+  padding: 0px;
+  margin: 0px;
+}
+
+thead th {
+  padding-bottom: 10px;
+}
+
+tbody td {
+  padding: 0 20px 5px;
+}
